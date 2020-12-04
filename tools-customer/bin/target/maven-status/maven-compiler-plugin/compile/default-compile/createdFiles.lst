@@ -1,0 +1,14 @@
+Server\Controller\ModelController.class
+Seriialization\WrapperList.class
+Server\Controller\DbController.class
+org\openjfx\tools\customer\App.class
+Server\Model\CustomerList.class
+Server\Server.class
+Seriialization\Deserializer.class
+Server\Model\Customer.class
+Seriialization\WrapperDAO.class
+Seriialization\Serializer.class
+Server\Model\Order.class
+Server\Controller\ServerController.class
+Server\Model\Item.class
+Server\Model\OrderLine.class

@@ -1,0 +1,11 @@
+1000;Knock Bits;88;12.67;E;Battery;8012
+1001;Widgets;10;35.50;NE;null;8004
+1002;Grommets;20;23.45;E;AC;8001
+1003;Wedges;15;10.15;NE;null;8011
+1004;Wing Bats;11;11.25;E;DC;8003
+1005;Twinkies;75;15.75;E;DC;8012
+1006;Wiggles;30;12.34;E;AC;8010
+1007;Bing Bobs;25;2.39;NE;null;8005
+1008;Wog Wits;300;19.99;E;Battery;8004
+1009;Barney Bits;21;23.59;NE;null;8006
+1010;Willie Widgits;89;12.99;E;Battery;8003

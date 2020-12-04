@@ -1,0 +1,20 @@
+6000;Jim;Johnson;34 Rock Way;U3R 9B6;401-335-9476;C
+6001;Jones;Sally;22 Blue Park;M2A 5K8;401-228-7213;R
+6002;Masoud;Khan;2345 Samson Way;K2R 3M6;401-114-9812;C
+6003;Bill;Paley;11 Kansas Road;G7Z 4G7;405-202-9876;R
+6004;Paul;Allen;Virginia Ave;L4W 8H3;407-208-9076;C
+6005;Steve;Jobs;343 Wyoming Road;I4U 8V3;405-305-9676;R
+6006;Sarah;Wozniac;22 Dusty Road;R2K 2N0;403-004-7865;R
+6007;Jeff;Bezos;345 Chelmsford Ave;Y0A 0H0;408-115-4287;R
+6008;Warren;Buffet;44 Hertfordshire Street;E1M 3P3;407-555-8888;R
+6009;Smith;Hamleys;33 Billings Drive;E2C 4S7;406-226-7890;R
+6010;Mukesh;Singh;345 Montanta Road;W2X 1L6;408-336-9867;C
+6011;Rody;Betty;32 Carols Street;S5W 4E6;402-446-7766;R
+6012;Donald;Trump;76 Riverside Drive;P5X 8F4;401-556-9165;C
+6013;Joseph;Viteas;450 Bellow Road;L8V 7N2;401-663-9854;R
+6014;Ram;Ramson;34 Magic Swim Way;C3R 5B6;405-775-9076;C
+6015;Jill;Tomson;876 Double Place Road;A4H 4M7;403-885-2763;C
+6016;Huck;Finn;76 Doctors Ave;U5X 8F4;409-996-9165;R
+6017;Gavin;Newsome;9 Engineers Quarters;J9M 4G7;409-853-9876;C
+6018;Simon;Tanner;34 Plumbers Road;G7Y 8N4;405-865-0834;C
+6019;Tammy;Green;88 KPMG Way;Q4F 9Z5;404-866-3487;R
